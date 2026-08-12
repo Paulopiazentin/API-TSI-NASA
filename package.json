@@ -1,0 +1,23 @@
+{
+  "name": "api-tsi-nasa",
+  "version": "1.0.0",
+  "description": "API para Consultas e Visualizações de Imagem Da Nasa, para aprendizado de construção de API",
+  "homepage": "https://github.com/Paulopiazentin/API-TSI-NASA#readme",
+  "bugs": {
+    "url": "https://github.com/Paulopiazentin/API-TSI-NASA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulopiazentin/API-TSI-NASA.git"
+  },
+  "license": "ISC",
+  "author": "Paulo Piazentin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
